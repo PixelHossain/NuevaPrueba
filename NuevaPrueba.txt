@@ -5,3 +5,5 @@ voy a hacer una nueva linea desde aqui
 
 hoy dia 15 de abril a las 22:03 estoy haciendo un git clone para practicar con git hub y git bash 
 para el examen
+
+git pull ahora desde el navegador a ver si funciona
