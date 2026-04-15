@@ -10,4 +10,6 @@ git pull ahora desde el navegador a ver si funciona
 
 
 ahora quiero ver si funciona desde el visual studio code a ver si se actualiza en el repositorio de github del navegador
-
+ahora quiero hacer un merge a ver si funcioan
+rrrrrrr
+rrr
